@@ -1,0 +1,11 @@
+#main{
+  background-color: whitesmoke;
+  opacity: 80%;
+  width: 70%;
+  text-align: center;
+  border-radius: 15px;
+}
+
+p{
+  font-size: 20px;
+}
