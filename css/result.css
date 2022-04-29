@@ -4,6 +4,7 @@
   opacity: 80%;
   width: 80%;
   text-align: center;
+  word-break: keep-all;
   border-radius: 15px;
 }
 
@@ -19,6 +20,7 @@
   color: white;
   background-color: pink;
   font-size: 20px;
+  word-break: keep-all;
   border: 0px;
   border-radius: 20px;
 }
