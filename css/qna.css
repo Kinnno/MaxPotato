@@ -6,6 +6,7 @@
   background-color: whitesmoke;
   opacity: 80%;
   text-align: center;
+  word-break: keep-all;
   border-radius: 5px;
   font-size: 28px;
   width: 60%
