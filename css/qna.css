@@ -19,6 +19,7 @@
   width: 80%;
   border: 0px;
   font-size: 23px;
+  word-break: keep-all;
 }
 
 .answerList:hover, .answerList:focus {
